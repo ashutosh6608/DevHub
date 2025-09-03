@@ -47,15 +47,7 @@ Live Project: http://devhub-web.duckdns.org/
 - Other: React Intersection Observer, Socket.IO  
 - Build Tool: Vite  
 
-## Backend Setup
-cd Backend
-npm install
-npm start
 
-## Frontend Setup
-cd Frontend
-npm install
-npm run dev
 
 
 
